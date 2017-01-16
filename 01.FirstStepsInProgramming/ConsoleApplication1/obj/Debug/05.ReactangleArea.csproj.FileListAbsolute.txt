@@ -1,0 +1,9 @@
+C:\Users\Asen\Desktop\examPrep2\01.FirstStepsInProgramming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Asen\Desktop\examPrep2\01.FirstStepsInProgramming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Asen\Desktop\examPrep2\01.FirstStepsInProgramming\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Asen\Desktop\examPrep2\01.FirstStepsInProgramming\ConsoleApplication1\obj\Debug\05.ReactangleArea.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\01.FirstStepsInProgramming\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Asen\Desktop\examPrep2\01.FirstStepsInProgramming\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Asen\Desktop\SoftuniJan2017\01.FirstStepsInProgramming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Asen\Desktop\SoftuniJan2017\01.FirstStepsInProgramming\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Asen\Desktop\SoftuniJan2017\01.FirstStepsInProgramming\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

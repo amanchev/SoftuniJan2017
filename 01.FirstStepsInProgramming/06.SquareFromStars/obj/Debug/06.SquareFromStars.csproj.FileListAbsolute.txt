@@ -1,0 +1,8 @@
+C:\Users\Asen\Desktop\examPrep2\01.FirstStepsInProgramming\06.SquareFromStars\bin\Debug\06.SquareFromStars.exe.config
+C:\Users\Asen\Desktop\examPrep2\01.FirstStepsInProgramming\06.SquareFromStars\bin\Debug\06.SquareFromStars.exe
+C:\Users\Asen\Desktop\examPrep2\01.FirstStepsInProgramming\06.SquareFromStars\bin\Debug\06.SquareFromStars.pdb
+C:\Users\Asen\Desktop\examPrep2\01.FirstStepsInProgramming\06.SquareFromStars\obj\Debug\06.SquareFromStars.exe
+C:\Users\Asen\Desktop\examPrep2\01.FirstStepsInProgramming\06.SquareFromStars\obj\Debug\06.SquareFromStars.pdb
+C:\Users\Asen\Desktop\SoftuniJan2017\01.FirstStepsInProgramming\06.SquareFromStars\bin\Debug\06.SquareFromStars.exe.config
+C:\Users\Asen\Desktop\SoftuniJan2017\01.FirstStepsInProgramming\06.SquareFromStars\obj\Debug\06.SquareFromStars.exe
+C:\Users\Asen\Desktop\SoftuniJan2017\01.FirstStepsInProgramming\06.SquareFromStars\obj\Debug\06.SquareFromStars.pdb
