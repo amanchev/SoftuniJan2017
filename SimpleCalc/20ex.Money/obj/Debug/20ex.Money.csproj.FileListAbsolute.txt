@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\20ex.Money\bin\Debug\20ex.Money.exe.config
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\20ex.Money\bin\Debug\20ex.Money.exe
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\20ex.Money\bin\Debug\20ex.Money.pdb
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\20ex.Money\obj\Debug\20ex.Money.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\20ex.Money\obj\Debug\20ex.Money.exe
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\20ex.Money\obj\Debug\20ex.Money.pdb

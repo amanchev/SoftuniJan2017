@@ -25,11 +25,11 @@ namespace _13x.Convertor
             }
             else if (val1 == "EUR")
             {
-                n = n * usd;
+                n = n * eur;
             }
             else if (val1 == "GBP")
             {
-                n = n * usd;
+                n = n * gbp;
             }
 
             if (val2 == "USD")

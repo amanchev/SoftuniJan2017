@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.reactangle", "08.reactan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13x.Convertor", "13x.Convertor\13x.Convertor.csproj", "{33F49647-355D-4A78-BA4A-D8B259CA0A43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20ex.Money", "20ex.Money\20ex.Money.csproj", "{7672C220-6994-456E-8A5E-732DE173C2E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{33F49647-355D-4A78-BA4A-D8B259CA0A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33F49647-355D-4A78-BA4A-D8B259CA0A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33F49647-355D-4A78-BA4A-D8B259CA0A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7672C220-6994-456E-8A5E-732DE173C2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7672C220-6994-456E-8A5E-732DE173C2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7672C220-6994-456E-8A5E-732DE173C2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7672C220-6994-456E-8A5E-732DE173C2E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
