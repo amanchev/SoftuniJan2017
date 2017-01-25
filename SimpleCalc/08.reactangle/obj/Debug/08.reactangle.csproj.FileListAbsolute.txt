@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\08.reactangle\bin\Debug\08.reactangle.exe.config
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\08.reactangle\bin\Debug\08.reactangle.exe
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\08.reactangle\bin\Debug\08.reactangle.pdb
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\08.reactangle\obj\Debug\08.reactangle.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\08.reactangle\obj\Debug\08.reactangle.exe
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\08.reactangle\obj\Debug\08.reactangle.pdb

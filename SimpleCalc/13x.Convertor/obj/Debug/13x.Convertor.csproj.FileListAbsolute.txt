@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\13x.Convertor\bin\Debug\13x.Convertor.exe.config
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\13x.Convertor\bin\Debug\13x.Convertor.exe
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\13x.Convertor\bin\Debug\13x.Convertor.pdb
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\13x.Convertor\obj\Debug\13x.Convertor.exe
+C:\Users\Asen\Desktop\examPrep2\SimpleCalc\13x.Convertor\obj\Debug\13x.Convertor.pdb
