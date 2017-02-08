@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\19ex.PoolTubes\bin\Debug\19ex.PoolTubes.exe.config
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\19ex.PoolTubes\bin\Debug\19ex.PoolTubes.exe
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\19ex.PoolTubes\bin\Debug\19ex.PoolTubes.pdb
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\19ex.PoolTubes\obj\Debug\19ex.PoolTubes.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\19ex.PoolTubes\obj\Debug\19ex.PoolTubes.exe
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\19ex.PoolTubes\obj\Debug\19ex.PoolTubes.pdb

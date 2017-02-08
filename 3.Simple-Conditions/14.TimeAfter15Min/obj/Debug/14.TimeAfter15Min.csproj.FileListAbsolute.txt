@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\14.TimeAfter15Min\bin\Debug\14.TimeAfter15Min.exe.config
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\14.TimeAfter15Min\bin\Debug\14.TimeAfter15Min.exe
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\14.TimeAfter15Min\bin\Debug\14.TimeAfter15Min.pdb
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\14.TimeAfter15Min\obj\Debug\14.TimeAfter15Min.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\14.TimeAfter15Min\obj\Debug\14.TimeAfter15Min.exe
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\14.TimeAfter15Min\obj\Debug\14.TimeAfter15Min.pdb

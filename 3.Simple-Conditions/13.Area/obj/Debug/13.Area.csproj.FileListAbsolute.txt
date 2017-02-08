@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\13.Area\bin\Debug\13.Area.exe.config
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\13.Area\bin\Debug\13.Area.exe
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\13.Area\bin\Debug\13.Area.pdb
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\13.Area\obj\Debug\13.Area.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\13.Area\obj\Debug\13.Area.exe
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\13.Area\obj\Debug\13.Area.pdb

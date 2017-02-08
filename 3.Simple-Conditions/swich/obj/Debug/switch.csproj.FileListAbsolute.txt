@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\swich\bin\Debug\swich.exe.config
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\swich\bin\Debug\swich.exe
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\swich\bin\Debug\swich.pdb
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\swich\obj\Debug\swich.exe
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\swich\obj\Debug\swich.pdb
+C:\Users\Asen\Desktop\examPrep2\3.Simple-Conditions\swich\obj\Debug\switch.csprojResolveAssemblyReference.cache
