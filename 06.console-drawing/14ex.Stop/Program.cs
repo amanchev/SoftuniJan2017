@@ -24,7 +24,7 @@ namespace _14ex.Stop
             for (int i = 0; i < n; i++)
             {
                 Console.WriteLine("{0}//{1}\\\\{0}",
-                    new string('.',n - i),
+                    new string('.', n - i),
                     new string('_', width - 2*(n-i) - 4));
             }
 
