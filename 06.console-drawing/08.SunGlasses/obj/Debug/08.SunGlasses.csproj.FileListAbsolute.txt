@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\08.SunGlasses\bin\Debug\08.SunGlasses.exe.config
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\08.SunGlasses\bin\Debug\08.SunGlasses.exe
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\08.SunGlasses\bin\Debug\08.SunGlasses.pdb
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\08.SunGlasses\obj\Debug\08.SunGlasses.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\08.SunGlasses\obj\Debug\08.SunGlasses.exe
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\08.SunGlasses\obj\Debug\08.SunGlasses.pdb

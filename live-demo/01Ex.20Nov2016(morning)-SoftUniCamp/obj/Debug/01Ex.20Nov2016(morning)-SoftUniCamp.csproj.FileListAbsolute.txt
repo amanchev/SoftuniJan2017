@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\live-demo\01Ex.20Nov2016(morning)-SoftUniCamp\bin\Debug\01Ex.20Nov2016(morning)-SoftUniCamp.exe.config
+C:\Users\Asen\Desktop\examPrep2\live-demo\01Ex.20Nov2016(morning)-SoftUniCamp\bin\Debug\01Ex.20Nov2016(morning)-SoftUniCamp.exe
+C:\Users\Asen\Desktop\examPrep2\live-demo\01Ex.20Nov2016(morning)-SoftUniCamp\bin\Debug\01Ex.20Nov2016(morning)-SoftUniCamp.pdb
+C:\Users\Asen\Desktop\examPrep2\live-demo\01Ex.20Nov2016(morning)-SoftUniCamp\obj\Debug\01Ex.20Nov2016(morning)-SoftUniCamp.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\live-demo\01Ex.20Nov2016(morning)-SoftUniCamp\obj\Debug\01Ex.20Nov2016(morning)-SoftUniCamp.exe
+C:\Users\Asen\Desktop\examPrep2\live-demo\01Ex.20Nov2016(morning)-SoftUniCamp\obj\Debug\01Ex.20Nov2016(morning)-SoftUniCamp.pdb

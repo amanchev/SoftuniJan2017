@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\14ex.Stop\bin\Debug\14ex.Stop.exe.config
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\14ex.Stop\bin\Debug\14ex.Stop.exe
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\14ex.Stop\bin\Debug\14ex.Stop.pdb
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\14ex.Stop\obj\Debug\14ex.Stop.exe
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\14ex.Stop\obj\Debug\14ex.Stop.pdb

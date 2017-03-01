@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\10x.Diamond-2\bin\Debug\10x.Diamond-2.exe.config
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\10x.Diamond-2\bin\Debug\10x.Diamond-2.exe
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\10x.Diamond-2\bin\Debug\10x.Diamond-2.pdb
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\10x.Diamond-2\obj\Debug\10x.Diamond-2.exe
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\10x.Diamond-2\obj\Debug\10x.Diamond-2.pdb

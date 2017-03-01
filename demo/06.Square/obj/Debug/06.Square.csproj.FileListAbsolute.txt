@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep2\demo\06.Square\bin\Debug\06.Square.exe.config
+C:\Users\Asen\Desktop\examPrep2\demo\06.Square\bin\Debug\06.Square.exe
+C:\Users\Asen\Desktop\examPrep2\demo\06.Square\bin\Debug\06.Square.pdb
+C:\Users\Asen\Desktop\examPrep2\demo\06.Square\obj\Debug\06.Square.exe
+C:\Users\Asen\Desktop\examPrep2\demo\06.Square\obj\Debug\06.Square.pdb

@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\12ex.Fort\bin\Debug\12ex.Fort.exe.config
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\12ex.Fort\bin\Debug\12ex.Fort.exe
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\12ex.Fort\bin\Debug\12ex.Fort.pdb
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\12ex.Fort\obj\Debug\12ex.Fort.exe
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\12ex.Fort\obj\Debug\12ex.Fort.pdb

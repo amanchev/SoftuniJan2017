@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep2\01.Cinema\19ex.HotelRooms\bin\Debug\19ex.HotelRooms.exe.config
+C:\Users\Asen\Desktop\examPrep2\01.Cinema\19ex.HotelRooms\bin\Debug\19ex.HotelRooms.exe
+C:\Users\Asen\Desktop\examPrep2\01.Cinema\19ex.HotelRooms\bin\Debug\19ex.HotelRooms.pdb
+C:\Users\Asen\Desktop\examPrep2\01.Cinema\19ex.HotelRooms\obj\Debug\19ex.HotelRooms.exe
+C:\Users\Asen\Desktop\examPrep2\01.Cinema\19ex.HotelRooms\obj\Debug\19ex.HotelRooms.pdb

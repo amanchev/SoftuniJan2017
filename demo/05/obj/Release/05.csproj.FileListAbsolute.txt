@@ -1,0 +1,3 @@
+C:\Users\Asen\Desktop\examPrep2\demo\05\bin\Release\05.exe.config
+C:\Users\Asen\Desktop\examPrep2\demo\05\obj\Release\05.exe
+C:\Users\Asen\Desktop\examPrep2\demo\05\obj\Release\05.pdb

@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep2\demo\04.TriangleOfStars\bin\Debug\04.TriangleOfStars.exe.config
+C:\Users\Asen\Desktop\examPrep2\demo\04.TriangleOfStars\bin\Debug\04.TriangleOfStars.exe
+C:\Users\Asen\Desktop\examPrep2\demo\04.TriangleOfStars\bin\Debug\04.TriangleOfStars.pdb
+C:\Users\Asen\Desktop\examPrep2\demo\04.TriangleOfStars\obj\Debug\04.TriangleOfStars.exe
+C:\Users\Asen\Desktop\examPrep2\demo\04.TriangleOfStars\obj\Debug\04.TriangleOfStars.pdb

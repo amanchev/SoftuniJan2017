@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\09.House\bin\Debug\09.House.exe.config
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\09.House\bin\Debug\09.House.exe
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\09.House\bin\Debug\09.House.pdb
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\09.House\obj\Debug\09.House.exe
+C:\Users\Asen\Desktop\examPrep2\06.console-drawing\09.House\obj\Debug\09.House.pdb

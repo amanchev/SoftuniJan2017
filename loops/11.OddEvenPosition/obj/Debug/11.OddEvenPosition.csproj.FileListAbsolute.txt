@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep2\loops\11.OddEvenPosition\bin\Debug\11.OddEvenPosition.exe.config
+C:\Users\Asen\Desktop\examPrep2\loops\11.OddEvenPosition\bin\Debug\11.OddEvenPosition.exe
+C:\Users\Asen\Desktop\examPrep2\loops\11.OddEvenPosition\bin\Debug\11.OddEvenPosition.pdb
+C:\Users\Asen\Desktop\examPrep2\loops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.exe
+C:\Users\Asen\Desktop\examPrep2\loops\11.OddEvenPosition\obj\Debug\11.OddEvenPosition.pdb

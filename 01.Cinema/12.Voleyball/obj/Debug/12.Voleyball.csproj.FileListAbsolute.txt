@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\01.Cinema\12.Voleyball\bin\Debug\12.Voleyball.exe.config
+C:\Users\Asen\Desktop\examPrep2\01.Cinema\12.Voleyball\bin\Debug\12.Voleyball.exe
+C:\Users\Asen\Desktop\examPrep2\01.Cinema\12.Voleyball\bin\Debug\12.Voleyball.pdb
+C:\Users\Asen\Desktop\examPrep2\01.Cinema\12.Voleyball\obj\Debug\12.Voleyball.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\01.Cinema\12.Voleyball\obj\Debug\12.Voleyball.exe
+C:\Users\Asen\Desktop\examPrep2\01.Cinema\12.Voleyball\obj\Debug\12.Voleyball.pdb

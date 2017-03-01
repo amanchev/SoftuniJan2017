@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\loops\05.MaxNum\bin\Debug\05.MaxNum.exe.config
+C:\Users\Asen\Desktop\examPrep2\loops\05.MaxNum\bin\Debug\05.MaxNum.exe
+C:\Users\Asen\Desktop\examPrep2\loops\05.MaxNum\bin\Debug\05.MaxNum.pdb
+C:\Users\Asen\Desktop\examPrep2\loops\05.MaxNum\obj\Debug\05.MaxNum.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\loops\05.MaxNum\obj\Debug\05.MaxNum.exe
+C:\Users\Asen\Desktop\examPrep2\loops\05.MaxNum\obj\Debug\05.MaxNum.pdb
