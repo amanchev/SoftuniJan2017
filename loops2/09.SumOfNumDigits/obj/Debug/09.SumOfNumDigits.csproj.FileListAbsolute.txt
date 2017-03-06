@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\09.SumOfNumDigits\bin\Debug\09.SumOfNumDigits.exe.config
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\09.SumOfNumDigits\bin\Debug\09.SumOfNumDigits.exe
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\09.SumOfNumDigits\bin\Debug\09.SumOfNumDigits.pdb
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\09.SumOfNumDigits\obj\Debug\09.SumOfNumDigits.exe
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\09.SumOfNumDigits\obj\Debug\09.SumOfNumDigits.pdb

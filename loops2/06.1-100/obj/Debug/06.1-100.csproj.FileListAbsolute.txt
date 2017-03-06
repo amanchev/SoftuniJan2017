@@ -1,0 +1,5 @@
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\06.1-100\bin\Debug\06.1-100.exe.config
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\06.1-100\bin\Debug\06.1-100.exe
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\06.1-100\bin\Debug\06.1-100.pdb
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\06.1-100\obj\Debug\06.1-100.exe
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\06.1-100\obj\Debug\06.1-100.pdb

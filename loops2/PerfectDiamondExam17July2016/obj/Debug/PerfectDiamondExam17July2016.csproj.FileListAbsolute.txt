@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\PerfectDiamondExam17July2016\bin\Debug\PerfectDiamondExam17July2016.exe.config
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\PerfectDiamondExam17July2016\bin\Debug\PerfectDiamondExam17July2016.exe
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\PerfectDiamondExam17July2016\bin\Debug\PerfectDiamondExam17July2016.pdb
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\PerfectDiamondExam17July2016\obj\Debug\PerfectDiamondExam17July2016.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\PerfectDiamondExam17July2016\obj\Debug\PerfectDiamondExam17July2016.exe
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\PerfectDiamondExam17July2016\obj\Debug\PerfectDiamondExam17July2016.pdb

@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\16ex.Generator\bin\Debug\16ex.Generator.exe.config
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\16ex.Generator\bin\Debug\16ex.Generator.exe
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\16ex.Generator\bin\Debug\16ex.Generator.pdb
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\16ex.Generator\obj\Debug\16ex.Generator.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\16ex.Generator\obj\Debug\16ex.Generator.exe
+C:\Users\Asen\Desktop\examPrep2\ConsoleApplication3\16ex.Generator\obj\Debug\16ex.Generator.pdb
