@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\16mart\05.DataAfterFiveDays\bin\Debug\05.DataAfterFiveDays.exe.config
+C:\Users\Asen\Desktop\examPrep2\16mart\05.DataAfterFiveDays\bin\Debug\05.DataAfterFiveDays.exe
+C:\Users\Asen\Desktop\examPrep2\16mart\05.DataAfterFiveDays\bin\Debug\05.DataAfterFiveDays.pdb
+C:\Users\Asen\Desktop\examPrep2\16mart\05.DataAfterFiveDays\obj\Debug\05.DataAfterFiveDays.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\16mart\05.DataAfterFiveDays\obj\Debug\05.DataAfterFiveDays.exe
+C:\Users\Asen\Desktop\examPrep2\16mart\05.DataAfterFiveDays\obj\Debug\05.DataAfterFiveDays.pdb

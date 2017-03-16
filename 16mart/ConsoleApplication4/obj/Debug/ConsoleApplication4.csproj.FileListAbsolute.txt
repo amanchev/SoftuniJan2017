@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\16mart\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Asen\Desktop\examPrep2\16mart\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Asen\Desktop\examPrep2\16mart\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Asen\Desktop\examPrep2\16mart\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\16mart\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Asen\Desktop\examPrep2\16mart\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

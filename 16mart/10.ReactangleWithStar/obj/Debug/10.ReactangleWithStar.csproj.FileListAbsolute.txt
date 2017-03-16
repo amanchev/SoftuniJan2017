@@ -1,0 +1,6 @@
+C:\Users\Asen\Desktop\examPrep2\16mart\10.ReactangleWithStar\bin\Debug\10.ReactangleWithStar.exe.config
+C:\Users\Asen\Desktop\examPrep2\16mart\10.ReactangleWithStar\bin\Debug\10.ReactangleWithStar.exe
+C:\Users\Asen\Desktop\examPrep2\16mart\10.ReactangleWithStar\bin\Debug\10.ReactangleWithStar.pdb
+C:\Users\Asen\Desktop\examPrep2\16mart\10.ReactangleWithStar\obj\Debug\10.ReactangleWithStar.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Desktop\examPrep2\16mart\10.ReactangleWithStar\obj\Debug\10.ReactangleWithStar.exe
+C:\Users\Asen\Desktop\examPrep2\16mart\10.ReactangleWithStar\obj\Debug\10.ReactangleWithStar.pdb
